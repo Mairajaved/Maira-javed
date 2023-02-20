@@ -1,7 +1,7 @@
 # Maira-javed
 <h1 align="center">Hi 👋, I'm Maira javed</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/mrunali8975/>
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairajaved&label=Profile%20views&color=0e75b6&style=flat" alt="mairajaved" /> </p>
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/maira-javed12 </h3>
