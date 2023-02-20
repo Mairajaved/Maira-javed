@@ -1,11 +1,10 @@
 # Maira-javed
 <h1 align="center">Hi 👋, I'm Maira javed</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="![download](https://user-images.githubusercontent.com/89129372/220052317-47014d88-775f-4e18-a061-1089ecf9e8c3.jpg)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/mrunali8975/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairajaved&label=Profile%20views&color=0e75b6&style=flat" alt="mairajaved" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/maira-javed12 </h3>
 <p align="left">
 </p>
 
