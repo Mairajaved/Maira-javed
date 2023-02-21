@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maira javed</h1>
 <h3 align="center">About me</h3>
 <P>"Hi there, I'm Maira Javed, I'm from Karachi. Welcome to my Github profile, I'm an undergraduate student of Computer Science ,highly motivated and passionate about learning new skills in the career track of  Web Development."</p>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairajaved&label=Profile%20views&color=0e75b6&style=flat" alt="mairajaved" /> </p>
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/maira-javed12 </h3>
