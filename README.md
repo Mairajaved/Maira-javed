@@ -1,4 +1,4 @@
-# Maira-javed
+
 <h1 align="center">Hi 👋, I'm Maira javed</h1>
 <h3 align="center">About me</h3>
 <P>"Hi there, I'm Maira Javed, I'm from Karachi. Welcome to my Github profile, I'm an undergraduate student of Computer Science ,highly motivated and passionate about learning new skills in the career track of  Web Development."</p>
