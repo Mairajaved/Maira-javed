@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MAIRA JAVED</h1>
 <h3 align="center">INTRO</h3>
 <P>"Hi there, I'm Maira Javed, I'm from Karachi. Welcome to my Github profile, I'm an undergraduate student of Computer Science ,highly motivated and passionate about learning new skills in the career track of  Web Development."</p>
-# 💫 About Me:
+# 💫 About Me:<br>
 🔭 I’m currently working on Something interesting.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>🤝 I’m looking for help with competitive programming.<br>🌱 I’m currently learning MERN Stack development.<br>💬 Ask me about anything related to computer science or software development.<br>⚡ Fact about me: I have no time to fight with egos and small mindsets . I am busy working on my goals.
 
 
@@ -32,7 +32,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mairajaved&show_icons=true&locale=en&layout=compact" alt="mairajaved" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mairajaved&" alt="mairajaved" /></p>
