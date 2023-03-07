@@ -23,6 +23,5 @@ https://www.linkedin.com/in/maira-javed12
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairajaved&label=Profile%20views&color=0e75b6&style=flat" alt="mairajaved" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
