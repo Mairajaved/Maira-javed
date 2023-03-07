@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MAIRA JAVED</h1>
 <h3 align="center">INTRO</h3>
 <P>"Hi there, I'm Maira Javed, I'm from Karachi. Welcome to my Github profile, I'm an undergraduate student of Computer Science ,highly motivated and passionate about learning new skills in the career track of  Web Development."</p>
-# 💫 About Me:<br>
+<h2># 💫About Me:</h2><br>
 🔭 I’m currently working on Something interesting.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>🤝 I’m looking for help with competitive programming.<br>🌱 I’m currently learning MERN Stack development.<br>💬 Ask me about anything related to computer science or software development.<br>⚡ Fact about me: I have no time to fight with egos and small mindsets . I am busy working on my goals.
 
 
